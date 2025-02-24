@@ -1,5 +1,5 @@
 <p align="center" ><img  src = "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width = 100px></p>
-<h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Vishva Aloka</h1>
+<h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Ranidu Pramod</h1>
 
 
 <p align="center">
@@ -13,5 +13,5 @@
 
 - 🌱 I’m currently learning HTML,CSS,PHP,JavaScript & Java
 - 💬 Ask me about HTML,CSS,PHP,JavaScript
-- 📫 How to reach me **rajeevaloka@gmail.com**
-- ⚡I like playing video games,watching movies and design websites
+- 📫 How to reach me **promoranidu@gmail.com**
+- ⚡I like playing video games,watching movies and develop websites
